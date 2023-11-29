@@ -12,7 +12,7 @@ Describes pod names
 Lists all replication controllers
 
 ### Kubectl get cvc
-Lists services
+Lists services   
 
 ### Kubectl delete pod<name>
 Deletes a pod
